@@ -1,0 +1,5 @@
+img_width : 1200
+img_height : 400
+img_channels : 3
+lcm_recv_timeout : 200
+lcm_chan_name : percfusion_show

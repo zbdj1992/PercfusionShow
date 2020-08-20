@@ -1,0 +1,6 @@
+package lcm_struct;
+struct Lcm_Struct
+{
+    int64_t timestamp;
+    byte img_data[400][3600];
+}
